@@ -2,7 +2,7 @@ package controller
 
 import (
     "github.com/gin-gonic/gin"
-    "github.com/Arbyka/deployapi/models"
+    "deployapi/models"
     "net/http"
 )
 
